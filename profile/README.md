@@ -6,5 +6,6 @@ Its core mission is to provide a learning environment where attendees can get th
 
 ## Get involved
 
-- Find our events on [Eventbrite](https://daemon-labs.eventbrite.com)
+- Be sure to run through our [prerequisites](https://github.com/daemon-labs-resources/prerequisites/blob/main/README.md) before attending a workshop
+- Find our workshops on [Eventbrite](https://daemon-labs.eventbrite.com)
 - Join the community on [Slack](https://daemon-labs.slack.com/join/shared_invite/zt-3e3cdbmis-V7B96g2Ty1INqaSVswfZjQ#/shared-invite/email)
