@@ -1,7 +1,7 @@
 repository:
   name: .github
   description: Daemon Labs
-  homepage: https://github.com/daemon-labs-resources/.github
+  homepage: https://www.dae.mn
   topics: daemon-labs, daemon-labs-resources, .github
   private: false
   has_issues: false
