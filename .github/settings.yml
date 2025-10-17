@@ -1,6 +1,6 @@
 repository:
   name: .github
-  description: Daemon Labs - .github
+  description: Daemon Labs
   homepage: https://github.com/daemon-labs-resources/.github
   topics: daemon-labs, daemon-labs-resources, .github
   private: false
