@@ -12,3 +12,8 @@ permissions:
 jobs:
   linting:
     uses: ./.github/workflows/reusable-linting.yaml
+    permissions:
+      contents: read
+      packages: read
+      statuses: write
+      checks: write
