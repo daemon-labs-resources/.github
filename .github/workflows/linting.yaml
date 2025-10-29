@@ -11,7 +11,7 @@ permissions:
   contents: read
 jobs:
   linting:
-    uses: ./.github/workflows/linting.yaml
+    uses: ./.github/workflows/reusable-linting.yaml
     permissions:
       contents: read
       packages: read
