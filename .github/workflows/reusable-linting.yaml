@@ -1,0 +1,23 @@
+---
+name: Linting
+on:
+  workflow_call: null
+permissions:
+  contents: read
+  packages: read
+  statuses: write
+  checks: write
+jobs:
+  linting:
+    name: Linting
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Super linter
+        uses: super-linter/super-linter@2bdd90ed3262e023ac84bf8fe35dc480721fc1f2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

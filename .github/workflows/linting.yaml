@@ -11,7 +11,7 @@ permissions:
   contents: read
 jobs:
   linting:
-    uses: daemon-labs-resources/.github/.github/workflows/linting.yaml@main
+    uses: ./.github/workflows/reusable-linting.yaml
     permissions:
       contents: read
       packages: read
