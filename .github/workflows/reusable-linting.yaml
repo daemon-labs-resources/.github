@@ -2,7 +2,11 @@
 name: Linting
 on:
   workflow_call: null
-permissions: {}
+permissions:
+  contents: read
+  packages: read
+  statuses: write
+  checks: write
 jobs:
   linting:
     name: Linting
