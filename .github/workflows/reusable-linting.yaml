@@ -2,6 +2,7 @@
 name: Linting
 on:
   workflow_call: null
+permissions: none
 jobs:
   linting:
     name: Linting
