@@ -22,4 +22,4 @@ To maximise your learning and connect with our community of practitioners:
 - **Be Prepared:** Be sure to run through our [prerequisites](https://github.com/daemon-labs-resources/prerequisites) before attending a workshop.
 - **Find Workshops:** Find our next free, hands-on event on [Eventbrite](https://daemon-labs.eventbrite.com).
 - **Join the Community:** Join the conversation on [Slack](https://daemon-labs.slack.com/join/shared_invite/zt-3e3cdbmis-V7B96g2Ty1INqaSVswfZjQ#/shared-invite/email) to ask follow-up questions and network with top engineers.
-- **Client Inquiries:** To discuss a Custom Accelerator Session for your team, please visit [https://www.dae.mn](https://www.dae.mn).
+- **Client Inquiries:** To discuss a Custom Accelerator Session for your team, please [contact us](https://www.dae.mn/contact-us).
