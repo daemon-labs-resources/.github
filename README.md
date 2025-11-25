@@ -1,12 +1,12 @@
 # 📚 Daemon Labs workshop documentation hub
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE.md)
 
-## 📚 Prerequisites
+## 🛑 Prerequisites
 
-The detailed, step-by-step instructions and narrative for the project are contained in the main workshop document:
+Before beginning any workshop, please ensure your environment is correctly set up by following the instructions in our prerequisites documentation:
 
-➡️ **[View the prerequisites guide](./PREREQUISITES.md)**
+➡️ **[Prerequisites guide](https://github.com/daemon-labs-resources/prerequisites)**
 
 ---
 
